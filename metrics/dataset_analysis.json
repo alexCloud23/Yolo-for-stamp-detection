@@ -1,0 +1,113 @@
+{
+    "best_5": [
+        {
+            "image": "_ilovepdf_com-6_jpg.rf.IpFbczALsFWoqgylyash.jpg",
+            "tp": 0,
+            "fp": 1,
+            "fn": 4,
+            "mean_iou": 0
+        },
+        {
+            "image": "_ilovepdf_com-6_jpg.rf.xtFcWlQN1VzmhesW4NAE.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 10,
+            "mean_iou": 0
+        },
+        {
+            "image": "_kaneva-mariya-002_jpg.rf.E6rsFGAo5CVQVwfJuHKJ.jpg",
+            "tp": 0,
+            "fp": 1,
+            "fn": 4,
+            "mean_iou": 0
+        },
+        {
+            "image": "_pril--k-raspr--16-ot-14-04-17-g-_jpg.rf.PEzNI1uabEimXsafjLOv.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 3,
+            "mean_iou": 0
+        },
+        {
+            "image": "_russkiy-yazyk--1-_jpg.rf.DHgXbME6twwCUlsx3t3f.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 4,
+            "mean_iou": 0
+        }
+    ],
+    "worst_5": [
+        {
+            "image": "---------------------------------------------------------------------1-_jpg.rf.DXECgovtmhgwFKSUj65j.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 2,
+            "mean_iou": 0
+        },
+        {
+            "image": "----------------------------------------------------------------4--1-_jpg.rf.gEHVrJ7ibVYCtBAkZH3D.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 5,
+            "mean_iou": 0
+        },
+        {
+            "image": "----------------------------------2020------3-scaled_jpg.rf.msGT5kXsclN8yWcySUPV.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 4,
+            "mean_iou": 0
+        },
+        {
+            "image": "---------------------------1-_jpg.rf.uMPQSiS78IOLtI0KCPoY.jpg",
+            "tp": 0,
+            "fp": 2,
+            "fn": 2,
+            "mean_iou": 0
+        },
+        {
+            "image": "------------------------1-_jpg.rf.xxYRQgehqPxhvQCEpS5e.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 4,
+            "mean_iou": 0
+        }
+    ],
+    "all": [
+        {
+            "image": "--------_----------_------_--------_--_17-06-10_page-0001--1-_jpg.rf.3dVCCZclc3mFKnxsLg49.jpg",
+            "tp": 0,
+            "fp": 1,
+            "fn": 3,
+            "mean_iou": 0
+        },
+        {
+            "image": "_1_jpg.rf.O6URd5o8NN8J3dkbNch5.jpg",
+            "tp": 0,
+            "fp": 1,
+            "fn": 1,
+            "mean_iou": 0
+        },
+        {
+            "image": "_432_jpg.rf.eUw4aLyJObk2lFC2RpGt.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 5,
+            "mean_iou": 0
+        },
+        {
+            "image": "----_20191003--2-_jpg.rf.WcuzaNK5BUWzb7d2L4ef.jpg",
+            "tp": 0,
+            "fp": 0,
+            "fn": 3,
+            "mean_iou": 0
+        },
+        {
+            "image": "_ilovepdf_com-6_jpg.rf.IpFbczALsFWoqgylyash.jpg",
+            "tp": 0,
+            "fp": 1,
+            "fn": 4,
+            "mean_iou": 0
+        }
+    ]
+}
